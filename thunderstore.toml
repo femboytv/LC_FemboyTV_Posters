@@ -6,9 +6,9 @@ icon = "./icon.png"
 readme = "./README.md"
 outdir = "./build"
 
-[[build.copy]]
-source = "./BepInEx"
-target = "./BepInEx"
+#[[build.copy]]
+#source = "./BepInEx"
+#target = "./BepInEx"
 
 [package]
 namespace = "femboytv"
